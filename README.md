@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My name is Jacob Ellis, I am a Computer Science and Artificial Intelligence student studying in Arizona
